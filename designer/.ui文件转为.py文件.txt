@@ -1,0 +1,2 @@
+方法1：使用命令行执行 python -m PyQt5.uic.pyuic firstdemo.ui -o first_ui.py
+方法2：使用命令行执行 pyuic5 firstdemo.ui -o first_ui.py
